@@ -3,10 +3,14 @@ Project I made in my senior year at Murray State University.
 https://web3.murraystate.edu/cis420/202380/directory.php
 
 ## Project Information
-Instructor; Dr. Solomon Antony
+Instructor: Dr. Solomon Antony
+
 Date: Fall 2023 Semester
+
 Sponsor: Dr. Victor Raj
+
 Client: Murray State University
+
 Group Members: Kristopher Myers
 
 ## Problem
