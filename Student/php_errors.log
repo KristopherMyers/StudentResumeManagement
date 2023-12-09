@@ -1,0 +1,20 @@
+[29-Nov-2023 08:44:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Client' not found in D:\home\murraystate.edu\wwwroot\cis420\202380\Student\student-login.php:12
+Stack trace:
+#0 {main}
+  thrown in D:\home\murraystate.edu\wwwroot\cis420\202380\Student\student-login.php on line 12
+[29-Nov-2023 10:58:12 UTC] PHP Warning:  require_once(/cis420/202380/google-api-php-client--php7.0/vendor/autoload.php): failed to open stream: No such file or directory in D:\home\murraystate.edu\wwwroot\cis420\202380\Student\student-login.php on line 11
+[29-Nov-2023 10:58:12 UTC] PHP Fatal error:  require_once(): Failed opening required '/cis420/202380/google-api-php-client--php7.0/vendor/autoload.php' (include_path='.;C:\php\pear') in D:\home\murraystate.edu\wwwroot\cis420\202380\Student\student-login.php on line 11
+[29-Nov-2023 10:58:39 UTC] PHP Warning:  require_once(./cis420/202380/google-api-php-client--php7.0/vendor/autoload.php): failed to open stream: No such file or directory in D:\home\murraystate.edu\wwwroot\cis420\202380\Student\student-login.php on line 11
+[29-Nov-2023 10:58:39 UTC] PHP Fatal error:  require_once(): Failed opening required './cis420/202380/google-api-php-client--php7.0/vendor/autoload.php' (include_path='.;C:\php\pear') in D:\home\murraystate.edu\wwwroot\cis420\202380\Student\student-login.php on line 11
+[29-Nov-2023 10:59:08 UTC] PHP Warning:  require_once(root/cis420/202380/google-api-php-client--php7.0/vendor/autoload.php): failed to open stream: No such file or directory in D:\home\murraystate.edu\wwwroot\cis420\202380\Student\student-login.php on line 11
+[29-Nov-2023 10:59:08 UTC] PHP Fatal error:  require_once(): Failed opening required 'root/cis420/202380/google-api-php-client--php7.0/vendor/autoload.php' (include_path='.;C:\php\pear') in D:\home\murraystate.edu\wwwroot\cis420\202380\Student\student-login.php on line 11
+[29-Nov-2023 10:59:29 UTC] PHP Warning:  require_once(/cis420/202380/google-api-php-client--php7.0/vendor/autoload.php): failed to open stream: No such file or directory in D:\home\murraystate.edu\wwwroot\cis420\202380\Student\student-login.php on line 11
+[29-Nov-2023 10:59:29 UTC] PHP Fatal error:  require_once(): Failed opening required '/cis420/202380/google-api-php-client--php7.0/vendor/autoload.php' (include_path='.;C:\php\pear') in D:\home\murraystate.edu\wwwroot\cis420\202380\Student\student-login.php on line 11
+[29-Nov-2023 11:03:10 UTC] PHP Warning:  require_once(/../src/google-api-php-client--php7.0/vendor/autoload.php): failed to open stream: No such file or directory in D:\home\murraystate.edu\wwwroot\cis420\202380\Student\student-login.php on line 11
+[29-Nov-2023 11:03:10 UTC] PHP Fatal error:  require_once(): Failed opening required '/../src/google-api-php-client--php7.0/vendor/autoload.php' (include_path='.;C:\php\pear') in D:\home\murraystate.edu\wwwroot\cis420\202380\Student\student-login.php on line 11
+[29-Nov-2023 11:04:19 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: file "client_secret.json" does not exist in D:\home\murraystate.edu\wwwroot\cis420\202380\src\google-api-php-client--PHP7.0\src\Client.php:984
+Stack trace:
+#0 D:\home\murraystate.edu\wwwroot\cis420\202380\Student\student-login.php(14): Google\Client->setAuthConfig('client_secret.j...')
+#1 {main}
+  thrown in D:\home\murraystate.edu\wwwroot\cis420\202380\src\google-api-php-client--PHP7.0\src\Client.php on line 984
+[04-Dec-2023 11:53:45 America/Chicago] PHP Notice:  Array to string conversion in D:\home\murraystate.edu\wwwroot\cis420\202380\Student\student-submit.php on line 29

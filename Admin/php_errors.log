@@ -1,0 +1,40 @@
+[27-Nov-2023 13:04:37 UTC] PHP Notice:  Undefined index: CategoryName in D:\home\murraystate.edu\wwwroot\cis420\202380\Admin\admin.php on line 66
+[27-Nov-2023 13:04:37 UTC] PHP Notice:  Undefined index: CategoryName in D:\home\murraystate.edu\wwwroot\cis420\202380\Admin\admin.php on line 66
+[27-Nov-2023 13:04:37 UTC] PHP Notice:  Undefined index: CategoryName in D:\home\murraystate.edu\wwwroot\cis420\202380\Admin\admin.php on line 66
+[27-Nov-2023 13:04:37 UTC] PHP Notice:  Undefined index: CategoryName in D:\home\murraystate.edu\wwwroot\cis420\202380\Admin\admin.php on line 66
+[27-Nov-2023 13:04:37 UTC] PHP Notice:  Undefined index: CategoryName in D:\home\murraystate.edu\wwwroot\cis420\202380\Admin\admin.php on line 66
+[27-Nov-2023 13:04:37 UTC] PHP Notice:  Undefined index: CategoryName in D:\home\murraystate.edu\wwwroot\cis420\202380\Admin\admin.php on line 66
+[27-Nov-2023 13:04:37 UTC] PHP Notice:  Undefined index: CategoryName in D:\home\murraystate.edu\wwwroot\cis420\202380\Admin\admin.php on line 66
+[27-Nov-2023 13:04:37 UTC] PHP Notice:  Undefined index: CategoryName in D:\home\murraystate.edu\wwwroot\cis420\202380\Admin\admin.php on line 66
+[27-Nov-2023 13:04:37 UTC] PHP Notice:  Undefined index: CategoryName in D:\home\murraystate.edu\wwwroot\cis420\202380\Admin\admin.php on line 66
+[27-Nov-2023 13:04:37 UTC] PHP Notice:  Undefined index: CategoryName in D:\home\murraystate.edu\wwwroot\cis420\202380\Admin\admin.php on line 66
+[27-Nov-2023 13:04:37 UTC] PHP Notice:  Undefined index: CategoryName in D:\home\murraystate.edu\wwwroot\cis420\202380\Admin\admin.php on line 66
+[27-Nov-2023 13:29:54 UTC] PHP Parse error:  syntax error, unexpected ';' in D:\home\murraystate.edu\wwwroot\cis420\202380\Admin\admin-skill-add.php on line 32
+[27-Nov-2023 13:42:13 UTC] PHP Notice:  Undefined variable: conn in D:\home\murraystate.edu\wwwroot\cis420\202380\Admin\admin-existing-skills.php on line 10
+[27-Nov-2023 13:42:13 UTC] PHP Warning:  sqlsrv_query() expects parameter 1 to be resource, null given in D:\home\murraystate.edu\wwwroot\cis420\202380\Admin\admin-existing-skills.php on line 10
+[27-Nov-2023 13:42:13 UTC] PHP Warning:  sqlsrv_fetch_array() expects parameter 1 to be resource, bool given in D:\home\murraystate.edu\wwwroot\cis420\202380\Admin\admin-existing-skills.php on line 11
+[27-Nov-2023 14:06:42 UTC] PHP Warning:  sqlsrv_has_rows() expects parameter 1 to be resource, bool given in D:\home\murraystate.edu\wwwroot\cis420\202380\Admin\admin-get-single-student-record.php on line 12
+[27-Nov-2023 14:43:25 UTC] PHP Notice:  Undefined variable: mainstmt in D:\home\murraystate.edu\wwwroot\cis420\202380\Admin\admin-get-single-student-record.php on line 19
+[27-Nov-2023 14:43:25 UTC] PHP Warning:  sqlsrv_fetch_array() expects parameter 1 to be resource, null given in D:\home\murraystate.edu\wwwroot\cis420\202380\Admin\admin-get-single-student-record.php on line 19
+[27-Nov-2023 14:43:47 UTC] PHP Notice:  Undefined index: MNum in D:\home\murraystate.edu\wwwroot\cis420\202380\Admin\admin-get-single-student-record.php on line 20
+[27-Nov-2023 14:44:12 UTC] PHP Notice:  Undefined index: MNum in D:\home\murraystate.edu\wwwroot\cis420\202380\Admin\admin-get-single-student-record.php on line 20
+[27-Nov-2023 14:44:56 UTC] PHP Notice:  Undefined index: MNum in D:\home\murraystate.edu\wwwroot\cis420\202380\Admin\admin-get-single-student-record.php on line 20
+[27-Nov-2023 14:46:28 UTC] PHP Notice:  Undefined index: MNum in D:\home\murraystate.edu\wwwroot\cis420\202380\Admin\admin-get-single-student-record.php on line 20
+[27-Nov-2023 14:48:39 UTC] PHP Notice:  Undefined index: MNum in D:\home\murraystate.edu\wwwroot\cis420\202380\Admin\admin-get-single-student-record.php on line 20
+[28-Nov-2023 03:28:43 UTC] PHP Recoverable fatal error:  Object of class DateTime could not be converted to string in D:\home\murraystate.edu\wwwroot\cis420\202380\Admin\admin-get-single-student-record.php on line 103
+[04-Dec-2023 16:41:13 UTC] PHP Notice:  Undefined index: SkillId in D:\home\murraystate.edu\wwwroot\cis420\202380\Admin\admin-existing-skills.php on line 21
+[04-Dec-2023 16:41:13 UTC] PHP Notice:  Undefined index: SkillId in D:\home\murraystate.edu\wwwroot\cis420\202380\Admin\admin-existing-skills.php on line 21
+[04-Dec-2023 16:41:13 UTC] PHP Notice:  Undefined index: SkillId in D:\home\murraystate.edu\wwwroot\cis420\202380\Admin\admin-existing-skills.php on line 21
+[04-Dec-2023 16:41:13 UTC] PHP Notice:  Undefined index: SkillId in D:\home\murraystate.edu\wwwroot\cis420\202380\Admin\admin-existing-skills.php on line 21
+[04-Dec-2023 16:41:13 UTC] PHP Notice:  Undefined index: SkillId in D:\home\murraystate.edu\wwwroot\cis420\202380\Admin\admin-existing-skills.php on line 21
+[04-Dec-2023 16:41:13 UTC] PHP Notice:  Undefined index: SkillId in D:\home\murraystate.edu\wwwroot\cis420\202380\Admin\admin-existing-skills.php on line 21
+[04-Dec-2023 16:41:13 UTC] PHP Notice:  Undefined index: SkillId in D:\home\murraystate.edu\wwwroot\cis420\202380\Admin\admin-existing-skills.php on line 21
+[04-Dec-2023 16:41:13 UTC] PHP Notice:  Undefined index: SkillId in D:\home\murraystate.edu\wwwroot\cis420\202380\Admin\admin-existing-skills.php on line 21
+[04-Dec-2023 16:41:13 UTC] PHP Notice:  Undefined index: SkillId in D:\home\murraystate.edu\wwwroot\cis420\202380\Admin\admin-existing-skills.php on line 21
+[04-Dec-2023 16:41:13 UTC] PHP Notice:  Undefined index: SkillId in D:\home\murraystate.edu\wwwroot\cis420\202380\Admin\admin-existing-skills.php on line 21
+[04-Dec-2023 16:41:13 UTC] PHP Notice:  Undefined index: SkillId in D:\home\murraystate.edu\wwwroot\cis420\202380\Admin\admin-existing-skills.php on line 21
+[04-Dec-2023 17:15:26 UTC] PHP Notice:  Undefined index: deleted_skill in D:\home\murraystate.edu\wwwroot\cis420\202380\Admin\admin-delete-skill.php on line 8
+[04-Dec-2023 17:15:49 UTC] PHP Notice:  Undefined index: deleted_skill in D:\home\murraystate.edu\wwwroot\cis420\202380\Admin\admin-delete-skill.php on line 8
+[04-Dec-2023 17:16:02 UTC] PHP Notice:  Undefined index: deleted_skill in D:\home\murraystate.edu\wwwroot\cis420\202380\Admin\admin-delete-skill.php on line 8
+[04-Dec-2023 17:16:17 UTC] PHP Notice:  Undefined index: deleted_skill in D:\home\murraystate.edu\wwwroot\cis420\202380\Admin\admin-delete-skill.php on line 8
+[04-Dec-2023 18:02:09 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in D:\home\murraystate.edu\wwwroot\cis420\202380\Admin\admin-delete-skill.php on line 38
