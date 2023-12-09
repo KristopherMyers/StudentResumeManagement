@@ -54,10 +54,12 @@ including:
 - Major Names
 - Certification Names
 - Skills Possessed
+
 Also allows faculty members to narrow down search with various inclusion rules, including:
 - Require resulting students to match all search options
 - Require resulting students to be seeking employment
 - Require resulting students to have graduated by a certain date
+
 Finally, allows faculty members to generate a PDF report of students that have been
 selected using the checkbox on the very left side of their row.
 
