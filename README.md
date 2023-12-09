@@ -3,6 +3,8 @@ Project I made in my senior year at Murray State University.
 https://web3.murraystate.edu/cis420/202380/directory.php
 
 ## Project Information
+Group Members: Kristopher Myers
+
 Instructor: Dr. Solomon Antony
 
 Date: Fall 2023 Semester
@@ -10,8 +12,6 @@ Date: Fall 2023 Semester
 Sponsor: Dr. Victor Raj
 
 Client: Murray State University
-
-Group Members: Kristopher Myers
 
 ## Problem
 As a faculty member of Murray State University, Dr. Raj gets contacted by many employers asking
