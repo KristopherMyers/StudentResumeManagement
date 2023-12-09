@@ -1,0 +1,204 @@
+:root {
+	--msu-blue: #002144;
+	--msu-gold: #ECAC00;
+	--msu-gold-light: #e9d08b;
+	--head-size: 95px;
+	font-family: freight-text-pro, serif;
+	font-style: normal;
+	font-weight: 300;
+	padding: 0;
+	margin: 0;
+}
+body {
+	padding: 0;
+	margin: 0;
+	height: 100vh;
+	background-color: #F3F3F3;
+}
+header {
+	background-color: var(--msu-blue);
+	width: 100%;
+	height: var(--head-size);
+	color: var(--msu-gold);
+	text-align: center;
+}
+table, th, td {
+	border: 1px solid black;
+}
+td {
+	white-space: nowrap;
+}
+textarea {
+	width: 400px;
+	height: 200px;
+}
+.allow-wrap {
+	white-space: wrap;
+}
+.big-button {
+	width: 100%;
+	height: auto;
+	margin-top: 0;
+	margin-bottom: 0;
+	font-size: 24px;
+	text-wrap: wrap;
+}
+.big-button:hover {
+	background-color: var(--msu-gold);
+	color: var(--msu-blue);
+}
+.centered {
+	position: absolute;
+    top:  50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+	text-align: center;
+}
+.centered-column {
+	text-align: center;
+}
+.contains-info {
+	text-decoration: underline dotted;
+	cursor: help;
+}
+.error {
+	color: red;
+	font-weight: bold;
+}
+.first-big-button {
+	width: 100%;
+	height: auto;
+	margin-top: auto;
+	margin-bottom: 0;
+	font-size: 24px;
+	text-wrap: wrap;
+}
+.flexbox {
+	display: flex;
+	flex-wrap: wrap;
+}
+.head-text {
+	margin: 0 25%;
+	text-align: center;
+	font-size: calc(0.8 *  var(--head-size));
+}
+.item {
+	border: 1px solid black;
+	width: fit-content;
+	padding: 3px;
+}
+.logo {
+	height: calc(.4 * var(--head-size));
+	width: auto;
+	max-width: 330px;
+	position: relative;
+    float: left;
+    margin: 15px 0 15px 40px;
+    display: inline-block;
+}
+.profile-picture {
+	height: calc(0.4* var(--head-size));
+	vertical-align: middle;
+	border-radius: 100%;
+    margin: 15px 40px 15px 0;
+	float: right;
+}
+.required {
+	color: red;
+}
+.search-button {
+	width: 100%;
+	height: auto;
+	margin-top: auto;
+	font-size: 24px;
+}
+.sidebar {
+	width: 20%;
+	height: calc(100vh - var(--head-size));
+	background-color: var(--msu-blue);
+	color: var(--msu-gold);
+	right: 0;
+	top: 0;
+	float: right;
+	display: flex;
+  	flex-direction: column;
+}
+.skillbox {
+	overflow: scroll;
+	height: 110px;
+	max-height: 110px;
+	width: 100%;
+	color: black;
+	background-color: white;
+}
+.small-table {
+	max-height: 300px;
+	width: fit-content;
+	overflow: scroll;
+}
+.student-table {
+	width: 100%;
+	overflow: scroll;
+}
+.success {
+	color: green;
+	font-weight: bold;
+}
+.table-container {
+	width: 80%;
+	height: calc(100vh - var(--head-size));
+	overflow: scroll;
+}
+.text-huge {
+	font-size: 64px;
+}
+.window-left {
+	float: left;
+	width: 20vw;
+}
+.window-right {
+	float: right;
+	width: 80vw;
+	max-width: 80vw;
+}
+@media screen and ((max-height: 1370px)){ 
+	:root {
+		--head-size: 50px;
+	}
+	.head-text {
+		font-size: calc(0.8 *  var(--head-size));
+	}
+}
+@media screen and (((max-height: 720px) and (max-width: 1280px))or (max-width: 1250px)){
+	:root {
+		--head-size: 60px;
+	}
+	h1 {
+		margin: 0;
+	}
+	.big-button {
+		font-size: 1em;
+	}
+	.first-big-button {
+		font-size: 1em;
+	}
+	.sidebar {
+		width: 30%;
+	}
+	.skillbox {
+		height: 70px;
+		max-height: 70px;
+	}
+	.table-container {
+		width: 70%;
+	}
+
+}
+@media screen and ((max-height: 750px) and (max-width: 1350px)) { 
+	.sidebar {
+		width: 40%;
+	}
+	.table-container {
+		width: 60%;
+	}
+}
