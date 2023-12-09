@@ -22,10 +22,10 @@ for the purposes of sending that information to the employer.
 
 # Requirements
 Using information from Dr. Raj, I created these four requirements for the project
-	The solution must allow students to enter various types of information into a database
-	In doing so, a comprehensive database of student’s work-related skills will be created
-	Search tools that allow searching through the database will need to be implemented 
-	And then it should be possible to generate reports using student information
+-The solution must allow students to enter various types of information into a database
+-In doing so, a comprehensive database of student’s work-related skills will be created
+-Search tools that allow searching through the database will need to be implemented 
+-And then it should be possible to generate reports using student information
 
 
 # The Database
